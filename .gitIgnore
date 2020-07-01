@@ -1,0 +1,6 @@
+# Archivos a ignorar
+BaseOrdenamiento.vcxproj.*
+BaseOrdenamiento.vcxproj
+
+# Carpetas a Ignorar
+/Debug/
